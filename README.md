@@ -1,2 +1,2 @@
 # hellow-world
-Trial
+Trial figuring out how git works
